@@ -1,0 +1,29 @@
+table {
+    border: 2px solid;
+    margin: auto;
+}
+
+body {
+    text-align: center;
+    font-family: monospace;
+    background-color: bisque;
+}
+
+h1 {
+    font-size: 33px;
+    color: blueviolet;
+}
+h2 {
+    font-size: 25px;
+    color:cornflowerblue;
+}
+thead {
+    font-weight: 1000;
+    font-size: 20px;
+    background-color: blueviolet;
+}
+
+td {
+    border-bottom: 1px purple solid;
+    font-size: 15px;
+}
